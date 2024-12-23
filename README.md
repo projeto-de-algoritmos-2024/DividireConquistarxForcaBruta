@@ -1,12 +1,12 @@
-**!! Atenção: Renomeie o seu repositório para D&C_PardePontoseForçaBruta. !!** 
+
 
 Temas:
  - D&C
 
 # Par de Pontos com Dividir e Conquistar x Força Bruta
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 22
+**Conteúdo da Disciplina**: Dividir e Conquistar
 
 ## Alunos
 |Matrícula | Aluno |
