@@ -21,10 +21,10 @@ Exemplifica o funcioamento do algoritmo de par de pontos usando a divisão e con
 ![](./images/print1.png)
 Print1
 
-![](./imagens/print2.png)
+![](./images/print2.png)
 Print2
 
-![](./imagens/print3.png)
+![](./images/print3.png)
 Print3
 
 ## Instalação 
