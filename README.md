@@ -33,8 +33,9 @@ Print3
 Python 3 instalado juntamente com a biblioteca pygame em seu módulo.
 
 ## Uso 
-Aperte B para ele descobrir o par de pontos mais proximos usando força bruta .
-Aperte D para ele descobrir o par de pontos mais proximos usando divisão e consquista .
+Aperte B duas vezes para ele descobrir o par de pontos mais proximos usando força bruta .
+Aperte D duas vezes para ele descobrir o par de pontos mais proximos usando divisão e consquista .
+após acabar a execução aperte R duas vezes e tire as linhas da divisão e conquista .
 
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Link do vídeo : https://www.youtube.com/watch?v=vWCFYCoEvgo
