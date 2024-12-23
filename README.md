@@ -18,7 +18,14 @@ Temas:
 Exemplifica o funcioamento do algoritmo de par de pontos usando a divisão e conquista x força bruta
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![](./images/print1.png)
+Print1
+
+![](./imagens/print2.png)
+Print2
+
+![](./imagens/print3.png)
+Print3
 
 ## Instalação 
 **Linguagem**: Python
