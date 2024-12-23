@@ -12,10 +12,10 @@ Temas:
 |Matrícula | Aluno |
 | -- | -- |
 | 20/0038028  |  Guilherme Evangelista Ferreira dos Santos |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 16/0147816  |  Vinicius Edwardo Pereira Oliveira |
 
 ## Sobre 
-Exemplifica o funcioamento do algoritmo de par de pontos usando a divisão e conquista x força bruta
+Exemplifica o funcionamento do algoritmo de par de pontos usando a divisão e conquista x força bruta.
 
 ## Screenshots
 ![](./images/print1.png)
@@ -33,9 +33,9 @@ Print3
 Python 3 instalado juntamente com a biblioteca pygame em seu módulo.
 
 ## Uso 
-Aperte B duas vezes para ele descobrir o par de pontos mais proximos usando força bruta .
-Aperte D duas vezes para ele descobrir o par de pontos mais proximos usando divisão e consquista .
-após acabar a execução aperte R duas vezes e tire as linhas da divisão e conquista .
+Aperte B duas vezes para ele descobrir o par de pontos mais proximos usando força bruta.
+Aperte D duas vezes para ele descobrir o par de pontos mais proximos usando divisão e conquista.
+Após acabar a execução, aperte R duas vezes e tire as linhas da divisão e conquista.
 
 ## Outros 
 Link do vídeo : https://www.youtube.com/watch?v=vWCFYCoEvgo
